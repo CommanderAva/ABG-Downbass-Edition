@@ -1,0 +1,37 @@
+
+
+Starting up round 12:38:18
+---------------------
+[12:38:18]MISC: Saved mode is 'extended'
+[12:38:18]ADMIN: Loading jobban_rank
+[12:38:18]ADMIN: jobban_keylist was empty
+[12:38:18]ADMIN: Loading Banlist
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/captain.
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/hop.
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/assistant.
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/bartender.
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/chef.
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/hydro.
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/mining.
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/janitor.
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/librarian.
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/lawyer.
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/chaplain.
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/qm.
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/cargo_tech.
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/chief_engineer.
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/engineer.
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/atmos.
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/cmo.
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/doctor.
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/chemist.
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/geneticist.
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/psychiatrist.
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/rd.
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/scientist.
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/roboticist.
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/hos.
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/warden.
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/detective.
+[12:38:18]DEBUG: Error setting up jobs, blank title job: /datum/job/officer.
+[12:38:22]DEBUG: Next event in 29.714 minutes.

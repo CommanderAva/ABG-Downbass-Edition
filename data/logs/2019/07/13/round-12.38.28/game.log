@@ -1,0 +1,44 @@
+
+
+Starting up round 12:38:28
+---------------------
+[12:38:28]MISC: Saved mode is 'extended'
+[12:38:28]ADMIN: Loading jobban_rank
+[12:38:28]ADMIN: jobban_keylist was empty
+[12:38:28]ADMIN: Loading Banlist
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/captain.
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/hop.
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/assistant.
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/bartender.
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/chef.
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/hydro.
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/mining.
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/janitor.
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/librarian.
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/lawyer.
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/chaplain.
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/qm.
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/cargo_tech.
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/chief_engineer.
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/engineer.
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/atmos.
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/cmo.
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/doctor.
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/chemist.
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/geneticist.
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/psychiatrist.
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/rd.
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/scientist.
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/roboticist.
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/hos.
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/warden.
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/detective.
+[12:38:28]DEBUG: Error setting up jobs, blank title job: /datum/job/officer.
+[12:38:32]DEBUG: Next event in 28.438 minutes.
+[12:38:33]ACCESS: Login: BigSancho/(BigSancho) from 127.0.0.1-3068193435 || BYOND v512.1472
+[12:38:39]ADMIN: BigSancho has started the game.
+[12:38:45]ACCESS: Logout: *no key*/(BigSancho)
+[12:38:45]ACCESS: Login: BigSancho/(Opie Thorley) from 127.0.0.1-3068193435 || BYOND v512.1472
+[12:38:56]ADMIN: BigSancho/(Opie Thorley) created a /obj/item/weapon/gun/rifle/ak74/romanian
+[12:40:04]ADMIN: BigSancho/(Opie Thorley) created a /obj/item/storage/webbing/molle1
+[12:40:22]ACCESS: Logout: BigSancho/(Opie Thorley)

@@ -1,0 +1,10 @@
+
+
+Starting up round 12:34:09
+---------------------
+[12:34:24]HREF: 12:34 BigSancho (usr:BigSancho) || BigSancho src=[0x300002a];lobby_choice=ready
+[12:34:41]HREF: 12:34 BigSancho (usr:BigSancho) || BigSancho src=[0x300002a];lobby_choice=ready
+[12:34:41]HREF: 12:34 BigSancho (usr:BigSancho) || BigSancho src=[0x300002a];lobby_choice=late_join
+[12:34:42]HREF: 12:34 BigSancho (usr:BigSancho) || BigSancho src=[0x300002a];lobby_choice=SelectedJob;job_selected=Commander
+[12:34:53]HREF: 12:34 BigSancho (usr:Opie Thorley) || /datum/admins src=[0x21003106];quick_create_object=1
+[12:35:02]HREF: 12:35 BigSancho (usr:Opie Thorley) || /datum/admins src=%5B0x21003106%5D&filter=ak&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=2&object_name=&object_where=onfloor&object_list=%2Fobj%2Fitem%2Fweapon%2Fgun%2Frifle%2Fak74%2Fromanian

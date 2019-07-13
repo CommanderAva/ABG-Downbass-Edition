@@ -10,9 +10,9 @@
 	var/molle = 0
 	var/molle_pouches = list()
 	icon = 'icons/obj/webbing.dmi'
-/*
+
 /obj/item/storage/webbing/attack_hand(mob/user)
-	if(!worn_accessible && ishuman(user))
+/*	if(!worn_accessible && ishuman(user))
 		var/mob/living/carbon/human/H = user
 		if(H.back == src)
 /*			if(user.drop_inv_item_on_ground(src))
@@ -23,8 +23,9 @@
 */
 			to_chat(H, "<span class='notice'>You can't look in [src] while it's on your back.</span>")
 			return
-	..()
 */
+	..()
+
 /obj/item/storage/pouch/general/molle_small
 	name = "Small MOLLE pouch"
 	desc = "A small pouch for storing items. It's designed to be strapped on a clothing with a MOLLE system"

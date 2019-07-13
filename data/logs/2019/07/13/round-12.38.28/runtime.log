@@ -1,0 +1,574 @@
+
+
+Starting up round 12:38:28
+---------------------
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+  usr: null
+  src: Colonist Jan Horris (/mob/living/carbon/human)
+  src.loc: the floor (74,56,1) (/turf/open/floor)
+  call stack:
+Colonist Jan Horris (/mob/living/carbon/human): remove overlay(26)
+Colonist Jan Horris (/mob/living/carbon/human): update mutantrace(0)
+Colonist Jan Horris (/mob/living/carbon/human): regenerate icons()
+Colonist Jan Horris\'s head (/obj/item/limb/head): New(the floor (74,56,1) (/turf/open/floor), Colonist Jan Horris (/mob/living/carbon/human))
+head (/datum/limb/head): droplimb(null, 0)
+head (/datum/limb/head): take damage(100, 0, 0, 0, null, /list (/list), null)
+head (/datum/limb/head): take damage(100, 0, 0, 0, null, /list (/list))
+Colonist Jan Horris (/mob/living/carbon/human): take overall damage(100, 0, 0, 0, null)
+Colonist Jan Horris (/mob/living/carbon/human): adjustBruteLoss(100)
+Colonist Jan Horris (/obj/effect/landmark/corpsespawner/scientist): createCorpse()
+Colonist Jan Horris (/obj/effect/landmark/corpsespawner/scientist): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+  usr: null
+  src: Colonist Jan Horris (/mob/living/carbon/human)
+  src.loc: the floor (74,56,1) (/turf/open/floor)
+  call stack:
+Colonist Jan Horris (/mob/living/carbon/human): apply overlay(26)
+Colonist Jan Horris (/mob/living/carbon/human): update mutantrace(0)
+Colonist Jan Horris (/mob/living/carbon/human): regenerate icons()
+Colonist Jan Horris\'s head (/obj/item/limb/head): New(the floor (74,56,1) (/turf/open/floor), Colonist Jan Horris (/mob/living/carbon/human))
+head (/datum/limb/head): droplimb(null, 0)
+head (/datum/limb/head): take damage(100, 0, 0, 0, null, /list (/list), null)
+head (/datum/limb/head): take damage(100, 0, 0, 0, null, /list (/list))
+Colonist Jan Horris (/mob/living/carbon/human): take overall damage(100, 0, 0, 0, null)
+Colonist Jan Horris (/mob/living/carbon/human): adjustBruteLoss(100)
+Colonist Jan Horris (/obj/effect/landmark/corpsespawner/scientist): createCorpse()
+Colonist Jan Horris (/obj/effect/landmark/corpsespawner/scientist): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+  usr: null
+  src: Colonist Bren Foras (/mob/living/carbon/human)
+  src.loc: the dirt (19,158,1) (/turf/open/gm/dirt)
+  call stack:
+Colonist Bren Foras (/mob/living/carbon/human): remove overlay(26)
+Colonist Bren Foras (/mob/living/carbon/human): update mutantrace(0)
+Colonist Bren Foras (/mob/living/carbon/human): regenerate icons()
+Colonist Bren Foras\'s head (/obj/item/limb/head): New(the dirt (19,158,1) (/turf/open/gm/dirt), Colonist Bren Foras (/mob/living/carbon/human))
+head (/datum/limb/head): droplimb(null, 0)
+head (/datum/limb/head): take damage(165, 0, 0, 0, null, /list (/list), null)
+head (/datum/limb/head): take damage(165, 0, 0, 0, null, /list (/list))
+Colonist Bren Foras (/mob/living/carbon/human): take overall damage(165, 0, 0, 0, null)
+Colonist Bren Foras (/mob/living/carbon/human): adjustBruteLoss(100)
+Colonist Bren Foras (/obj/effect/landmark/corpsespawner/miner): createCorpse()
+Colonist Bren Foras (/obj/effect/landmark/corpsespawner/miner): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+  usr: null
+  src: Colonist Bren Foras (/mob/living/carbon/human)
+  src.loc: the dirt (19,158,1) (/turf/open/gm/dirt)
+  call stack:
+Colonist Bren Foras (/mob/living/carbon/human): apply overlay(26)
+Colonist Bren Foras (/mob/living/carbon/human): update mutantrace(0)
+Colonist Bren Foras (/mob/living/carbon/human): regenerate icons()
+Colonist Bren Foras\'s head (/obj/item/limb/head): New(the dirt (19,158,1) (/turf/open/gm/dirt), Colonist Bren Foras (/mob/living/carbon/human))
+head (/datum/limb/head): droplimb(null, 0)
+head (/datum/limb/head): take damage(165, 0, 0, 0, null, /list (/list), null)
+head (/datum/limb/head): take damage(165, 0, 0, 0, null, /list (/list))
+Colonist Bren Foras (/mob/living/carbon/human): take overall damage(165, 0, 0, 0, null)
+Colonist Bren Foras (/mob/living/carbon/human): adjustBruteLoss(100)
+Colonist Bren Foras (/obj/effect/landmark/corpsespawner/miner): createCorpse()
+Colonist Bren Foras (/obj/effect/landmark/corpsespawner/miner): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+  usr: null
+  src: Colonist Marko Quin (/mob/living/carbon/human)
+  src.loc: the dirt (15,160,1) (/turf/open/gm/dirt)
+  call stack:
+Colonist Marko Quin (/mob/living/carbon/human): remove overlay(26)
+Colonist Marko Quin (/mob/living/carbon/human): update mutantrace(0)
+Colonist Marko Quin (/mob/living/carbon/human): regenerate icons()
+Colonist Marko Quin\'s head (/obj/item/limb/head): New(the dirt (15,160,1) (/turf/open/gm/dirt), Colonist Marko Quin (/mob/living/carbon/human))
+head (/datum/limb/head): droplimb(null, 0)
+head (/datum/limb/head): take damage(50, 0, 0, 0, null, /list (/list), null)
+head (/datum/limb/head): take damage(100, 0, 0, 0, null, /list (/list))
+Colonist Marko Quin (/mob/living/carbon/human): take overall damage(100, 0, 0, 0, null)
+Colonist Marko Quin (/mob/living/carbon/human): adjustBruteLoss(100)
+Colonist Marko Quin (/obj/effect/landmark/corpsespawner/scientist): createCorpse()
+Colonist Marko Quin (/obj/effect/landmark/corpsespawner/scientist): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+  usr: null
+  src: Colonist Marko Quin (/mob/living/carbon/human)
+  src.loc: the dirt (15,160,1) (/turf/open/gm/dirt)
+  call stack:
+Colonist Marko Quin (/mob/living/carbon/human): apply overlay(26)
+Colonist Marko Quin (/mob/living/carbon/human): update mutantrace(0)
+Colonist Marko Quin (/mob/living/carbon/human): regenerate icons()
+Colonist Marko Quin\'s head (/obj/item/limb/head): New(the dirt (15,160,1) (/turf/open/gm/dirt), Colonist Marko Quin (/mob/living/carbon/human))
+head (/datum/limb/head): droplimb(null, 0)
+head (/datum/limb/head): take damage(50, 0, 0, 0, null, /list (/list), null)
+head (/datum/limb/head): take damage(100, 0, 0, 0, null, /list (/list))
+Colonist Marko Quin (/mob/living/carbon/human): take overall damage(100, 0, 0, 0, null)
+Colonist Marko Quin (/mob/living/carbon/human): adjustBruteLoss(100)
+Colonist Marko Quin (/obj/effect/landmark/corpsespawner/scientist): createCorpse()
+Colonist Marko Quin (/obj/effect/landmark/corpsespawner/scientist): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+  usr: null
+  src: Colonist Evan Kark (/mob/living/carbon/human)
+  src.loc: the dirt (15,167,1) (/turf/open/gm/dirt)
+  call stack:
+Colonist Evan Kark (/mob/living/carbon/human): remove overlay(26)
+Colonist Evan Kark (/mob/living/carbon/human): update mutantrace(0)
+Colonist Evan Kark (/mob/living/carbon/human): regenerate icons()
+Colonist Evan Kark\'s head (/obj/item/limb/head): New(the dirt (15,167,1) (/turf/open/gm/dirt), Colonist Evan Kark (/mob/living/carbon/human))
+head (/datum/limb/head): droplimb(null, 0)
+head (/datum/limb/head): take damage(100, 0, 0, 0, null, /list (/list), null)
+head (/datum/limb/head): take damage(100, 0, 0, 0, null, /list (/list))
+Colonist Evan Kark (/mob/living/carbon/human): take overall damage(100, 0, 0, 0, null)
+Colonist Evan Kark (/mob/living/carbon/human): adjustBruteLoss(100)
+Colonist Evan Kark (/obj/effect/landmark/corpsespawner/scientist): createCorpse()
+Colonist Evan Kark (/obj/effect/landmark/corpsespawner/scientist): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+  usr: null
+  src: Colonist Evan Kark (/mob/living/carbon/human)
+  src.loc: the dirt (15,167,1) (/turf/open/gm/dirt)
+  call stack:
+Colonist Evan Kark (/mob/living/carbon/human): apply overlay(26)
+Colonist Evan Kark (/mob/living/carbon/human): update mutantrace(0)
+Colonist Evan Kark (/mob/living/carbon/human): regenerate icons()
+Colonist Evan Kark\'s head (/obj/item/limb/head): New(the dirt (15,167,1) (/turf/open/gm/dirt), Colonist Evan Kark (/mob/living/carbon/human))
+head (/datum/limb/head): droplimb(null, 0)
+head (/datum/limb/head): take damage(100, 0, 0, 0, null, /list (/list), null)
+head (/datum/limb/head): take damage(100, 0, 0, 0, null, /list (/list))
+Colonist Evan Kark (/mob/living/carbon/human): take overall damage(100, 0, 0, 0, null)
+Colonist Evan Kark (/mob/living/carbon/human): adjustBruteLoss(100)
+Colonist Evan Kark (/obj/effect/landmark/corpsespawner/scientist): createCorpse()
+Colonist Evan Kark (/obj/effect/landmark/corpsespawner/scientist): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+  usr: null
+  src: Colonist Drew Bellel (/mob/living/carbon/human)
+  src.loc: the dirt (16,167,1) (/turf/open/gm/dirt)
+  call stack:
+Colonist Drew Bellel (/mob/living/carbon/human): remove overlay(26)
+Colonist Drew Bellel (/mob/living/carbon/human): update mutantrace(0)
+Colonist Drew Bellel (/mob/living/carbon/human): regenerate icons()
+Colonist Drew Bellel\'s head (/obj/item/limb/head): New(the dirt (16,167,1) (/turf/open/gm/dirt), Colonist Drew Bellel (/mob/living/carbon/human))
+head (/datum/limb/head): droplimb(null, 0)
+head (/datum/limb/head): take damage(100, 0, 0, 0, null, /list (/list), null)
+head (/datum/limb/head): take damage(100, 0, 0, 0, null, /list (/list))
+Colonist Drew Bellel (/mob/living/carbon/human): take overall damage(100, 0, 0, 0, null)
+Colonist Drew Bellel (/mob/living/carbon/human): adjustBruteLoss(100)
+Colonist Drew Bellel (/obj/effect/landmark/corpsespawner/doctor): createCorpse()
+Colonist Drew Bellel (/obj/effect/landmark/corpsespawner/doctor): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+  usr: null
+  src: Colonist Drew Bellel (/mob/living/carbon/human)
+  src.loc: the dirt (16,167,1) (/turf/open/gm/dirt)
+  call stack:
+Colonist Drew Bellel (/mob/living/carbon/human): apply overlay(26)
+Colonist Drew Bellel (/mob/living/carbon/human): update mutantrace(0)
+Colonist Drew Bellel (/mob/living/carbon/human): regenerate icons()
+Colonist Drew Bellel\'s head (/obj/item/limb/head): New(the dirt (16,167,1) (/turf/open/gm/dirt), Colonist Drew Bellel (/mob/living/carbon/human))
+head (/datum/limb/head): droplimb(null, 0)
+head (/datum/limb/head): take damage(100, 0, 0, 0, null, /list (/list), null)
+head (/datum/limb/head): take damage(100, 0, 0, 0, null, /list (/list))
+Colonist Drew Bellel (/mob/living/carbon/human): take overall damage(100, 0, 0, 0, null)
+Colonist Drew Bellel (/mob/living/carbon/human): adjustBruteLoss(100)
+Colonist Drew Bellel (/obj/effect/landmark/corpsespawner/doctor): createCorpse()
+Colonist Drew Bellel (/obj/effect/landmark/corpsespawner/doctor): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+  usr: null
+  src: Colonist Lee Hesto (/mob/living/carbon/human)
+  src.loc: the dirt (18,167,1) (/turf/open/gm/dirt)
+  call stack:
+Colonist Lee Hesto (/mob/living/carbon/human): remove overlay(26)
+Colonist Lee Hesto (/mob/living/carbon/human): update mutantrace(0)
+Colonist Lee Hesto (/mob/living/carbon/human): regenerate icons()
+Colonist Lee Hesto\'s head (/obj/item/limb/head): New(the dirt (18,167,1) (/turf/open/gm/dirt), Colonist Lee Hesto (/mob/living/carbon/human))
+head (/datum/limb/head): droplimb(null, 0)
+head (/datum/limb/head): take damage(100, 0, 0, 0, null, /list (/list), null)
+head (/datum/limb/head): take damage(100, 0, 0, 0, null, /list (/list))
+Colonist Lee Hesto (/mob/living/carbon/human): take overall damage(100, 0, 0, 0, null)
+Colonist Lee Hesto (/mob/living/carbon/human): adjustBruteLoss(100)
+Colonist Lee Hesto (/obj/effect/landmark/corpsespawner/scientist): createCorpse()
+Colonist Lee Hesto (/obj/effect/landmark/corpsespawner/scientist): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+  usr: null
+  src: Colonist Lee Hesto (/mob/living/carbon/human)
+  src.loc: the dirt (18,167,1) (/turf/open/gm/dirt)
+  call stack:
+Colonist Lee Hesto (/mob/living/carbon/human): apply overlay(26)
+Colonist Lee Hesto (/mob/living/carbon/human): update mutantrace(0)
+Colonist Lee Hesto (/mob/living/carbon/human): regenerate icons()
+Colonist Lee Hesto\'s head (/obj/item/limb/head): New(the dirt (18,167,1) (/turf/open/gm/dirt), Colonist Lee Hesto (/mob/living/carbon/human))
+head (/datum/limb/head): droplimb(null, 0)
+head (/datum/limb/head): take damage(100, 0, 0, 0, null, /list (/list), null)
+head (/datum/limb/head): take damage(100, 0, 0, 0, null, /list (/list))
+Colonist Lee Hesto (/mob/living/carbon/human): take overall damage(100, 0, 0, 0, null)
+Colonist Lee Hesto (/mob/living/carbon/human): adjustBruteLoss(100)
+Colonist Lee Hesto (/obj/effect/landmark/corpsespawner/scientist): createCorpse()
+Colonist Lee Hesto (/obj/effect/landmark/corpsespawner/scientist): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+  usr: null
+  src: Colonist Ellis Bark (/mob/living/carbon/human)
+  src.loc: the dirt (19,167,1) (/turf/open/gm/dirt)
+  call stack:
+Colonist Ellis Bark (/mob/living/carbon/human): remove overlay(26)
+Colonist Ellis Bark (/mob/living/carbon/human): update mutantrace(0)
+Colonist Ellis Bark (/mob/living/carbon/human): regenerate icons()
+Colonist Ellis Bark\'s head (/obj/item/limb/head): New(the dirt (19,167,1) (/turf/open/gm/dirt), Colonist Ellis Bark (/mob/living/carbon/human))
+head (/datum/limb/head): droplimb(null, 0)
+head (/datum/limb/head): take damage(100, 0, 0, 0, null, /list (/list), null)
+head (/datum/limb/head): take damage(100, 0, 0, 0, null, /list (/list))
+Colonist Ellis Bark (/mob/living/carbon/human): take overall damage(100, 0, 0, 0, null)
+Colonist Ellis Bark (/mob/living/carbon/human): adjustBruteLoss(100)
+Colonist Ellis Bark (/obj/effect/landmark/corpsespawner/scientist): createCorpse()
+Colonist Ellis Bark (/obj/effect/landmark/corpsespawner/scientist): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+  usr: null
+  src: Colonist Ellis Bark (/mob/living/carbon/human)
+  src.loc: the dirt (19,167,1) (/turf/open/gm/dirt)
+  call stack:
+Colonist Ellis Bark (/mob/living/carbon/human): apply overlay(26)
+Colonist Ellis Bark (/mob/living/carbon/human): update mutantrace(0)
+Colonist Ellis Bark (/mob/living/carbon/human): regenerate icons()
+Colonist Ellis Bark\'s head (/obj/item/limb/head): New(the dirt (19,167,1) (/turf/open/gm/dirt), Colonist Ellis Bark (/mob/living/carbon/human))
+head (/datum/limb/head): droplimb(null, 0)
+head (/datum/limb/head): take damage(100, 0, 0, 0, null, /list (/list), null)
+head (/datum/limb/head): take damage(100, 0, 0, 0, null, /list (/list))
+Colonist Ellis Bark (/mob/living/carbon/human): take overall damage(100, 0, 0, 0, null)
+Colonist Ellis Bark (/mob/living/carbon/human): adjustBruteLoss(100)
+Colonist Ellis Bark (/obj/effect/landmark/corpsespawner/scientist): createCorpse()
+Colonist Ellis Bark (/obj/effect/landmark/corpsespawner/scientist): initialize()
+Objects (/datum/controller/process/objects): setup()
+/datum/controller/processSched... (/datum/controller/processScheduler): addProcess(Objects (/datum/controller/process/objects))
+/datum/controller/processSched... (/datum/controller/processScheduler): setup()
+world: New()
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+  usr: (src)
+  src: Mr. Johnson Telovin (/mob/living/carbon/human)
+  src.loc: the floor (53,30,1) (/turf/open/floor)
+  call stack:
+Mr. Johnson Telovin (/mob/living/carbon/human): remove overlay(26)
+Mr. Johnson Telovin (/mob/living/carbon/human): update mutantrace(0)
+Mr. Johnson Telovin (/mob/living/carbon/human): regenerate icons()
+Mr. Johnson Telovin (/mob/living/carbon/human): set species("Human", null)
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+  usr: (src)
+  src: Mr. Johnson Telovin (/mob/living/carbon/human)
+  src.loc: the floor (53,30,1) (/turf/open/floor)
+  call stack:
+Mr. Johnson Telovin (/mob/living/carbon/human): apply overlay(26)
+Mr. Johnson Telovin (/mob/living/carbon/human): update mutantrace(0)
+Mr. Johnson Telovin (/mob/living/carbon/human): regenerate icons()
+Mr. Johnson Telovin (/mob/living/carbon/human): set species("Human", null)
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+  usr: (src)
+  src: Colonist Jan Horris (/mob/living/carbon/human)
+  src.loc: the floor (74,56,1) (/turf/open/floor)
+  call stack:
+Colonist Jan Horris (/mob/living/carbon/human): remove overlay(26)
+Colonist Jan Horris (/mob/living/carbon/human): update mutantrace(0)
+Colonist Jan Horris (/mob/living/carbon/human): regenerate icons()
+Colonist Jan Horris (/mob/living/carbon/human): set species("Human", null)
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+  usr: (src)
+  src: Colonist Jan Horris (/mob/living/carbon/human)
+  src.loc: the floor (74,56,1) (/turf/open/floor)
+  call stack:
+Colonist Jan Horris (/mob/living/carbon/human): apply overlay(26)
+Colonist Jan Horris (/mob/living/carbon/human): update mutantrace(0)
+Colonist Jan Horris (/mob/living/carbon/human): regenerate icons()
+Colonist Jan Horris (/mob/living/carbon/human): set species("Human", null)
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+  usr: (src)
+  src: Colonist Jed Willis (/mob/living/carbon/human)
+  src.loc: the river (21,58,1) (/turf/open/gm/river)
+  call stack:
+Colonist Jed Willis (/mob/living/carbon/human): remove overlay(26)
+Colonist Jed Willis (/mob/living/carbon/human): update mutantrace(0)
+Colonist Jed Willis (/mob/living/carbon/human): regenerate icons()
+Colonist Jed Willis (/mob/living/carbon/human): set species("Human", null)
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
+runtime error: list index out of bounds
+proc name: remove overlay (/mob/living/carbon/human/remove_overlay)
+  source file: update_icons.dm,107
+runtime error: list index out of bounds
+proc name: apply overlay (/mob/living/carbon/human/apply_overlay)
+  source file: update_icons.dm,102
