@@ -6,7 +6,7 @@ DIR: code code\__DEFINES code\_onclick\hud code\game code\game\objects code\game
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 512.1472
-WINDOW: escgunds.dmi;gp.dmi;grens.dmi;hel.dmi;trench.dmi;code\modules\projectiles\updated_projectiles\guns\donbass.dm;icons\obj\items\weapons.dmi;icons\mob\items_lefthand_1.dmi;icons\mob\items_righthand_1.dmi;code\game\objects\items\storage\webbing_vest.dm;code\__DEFINES\equipment.dm;code\game\objects\items.dm;code\modules\projectiles\updated_projectiles\guns\rifles.dm
+WINDOW: escgunds.dmi;gp.dmi;grens.dmi;hel.dmi;trench.dmi;code\modules\projectiles\updated_projectiles\guns\donbass.dm;icons\obj\items\weapons.dmi;icons\mob\items_lefthand_1.dmi;icons\mob\items_righthand_1.dmi;code\game\objects\items\storage\webbing_vest.dm
 FILE: code\game\objects\items\storage\webbing_vest.dm
 */
 // END_INTERNALS
